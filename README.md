@@ -19,7 +19,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone [https://github.com/your-username/DevDynamics-Assignment.git]  
+   git clone (https://github.com/your-username/DevDynamics-Assignment.git)
    cd DevDynamics-Assignment
    ```
 2. Install the dependencies:
