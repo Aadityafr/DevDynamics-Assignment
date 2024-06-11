@@ -20,3 +20,10 @@ To get started with this project, follow these steps:
 
    git clone https://github.com/your-username/pubsub-system.git  
    cd pubsub-system
+
+2. Install the dependencies:
+
+   npm install
+   
+3. Start the server:
+   node server.js
