@@ -64,7 +64,7 @@ node driver.js
 - **Description**: This endpoint notifies all subscribers who are subscribed to a particular topic.
 
 ### Unsubscribe
-- **URL**: `/unsubscribe`
+- **URL**: `/api/topics/unsubscribe`
 - **Method**: POST
 - **Body**:
   ```json
