@@ -7,7 +7,7 @@ This project is a simple Publisher-Subscriber notification system implemented wi
 
 - [Installation]
 - [Usage]
-- [APIs](#apis)
+- [APIs]
   - [Subscribe]
   - [Notify]
   - [Unsubscribe]
